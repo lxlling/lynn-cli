@@ -1,9 +1,9 @@
 {
-  "name": "lynn-cli",
+  "name": "lynn-liu-cli",
   "version": "1.0.0",
   "description": "a staging for my projects",
   "bin": {
-    "lynn-cli": "./bin/cli.js"
+    "lynn-liu-cli": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
