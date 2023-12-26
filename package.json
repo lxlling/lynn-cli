@@ -1,6 +1,6 @@
 {
   "name": "lynn-liu-cli",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "a staging for my projects",
   "bin": {
     "lynn-liu-cli": "./bin/cli.js"
@@ -10,7 +10,7 @@
   },
   "author": "Lynn",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "axios": "^1.6.2",
     "chalk": "^4.1.2",
     "commander": "^11.1.0",
